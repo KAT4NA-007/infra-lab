@@ -1,5 +1,5 @@
 ---
-github_repo: Rachkpt/infra-lab
+github_repo: KAT4NA-007/infra-lab
 
 wireguard_interface: wg0
 wireguard_listen_port: 51820

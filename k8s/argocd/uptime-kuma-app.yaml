@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Rachkpt/infra-lab.git
+    repoURL: https://github.com/KAT4NA-007/infra-lab.git
     targetRevision: main
     path: k8s/apps/uptime-kuma
   destination:

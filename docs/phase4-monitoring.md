@@ -9,7 +9,7 @@ sudo apt install -y docker.io docker-compose-v2
 sudo systemctl enable --now docker
 sudo usermod -aG docker ubuntu   # puis se reconnecter
 
-git clone https://github.com/Rachkpt/infra-lab.git
+git clone https://github.com/KAT4NA-007/infra-lab.git
 cd infra-lab/monitoring
 cp alertmanager/alertmanager.yml.example alertmanager/alertmanager.yml
 # editer alertmanager.yml : bot_token + chat_id Telegram (jamais commite)

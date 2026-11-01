@@ -61,7 +61,7 @@ est la ressource `Application` ArgoCD qui pointe vers ce dossier dans
 Application du manifeste (une seule fois, ArgoCD gere ensuite tout
 seul) :
 ```bash
-sudo kubectl apply -f https://raw.githubusercontent.com/Rachkpt/infra-lab/main/k8s/argocd/hello-world-app.yaml
+sudo kubectl apply -f https://raw.githubusercontent.com/KAT4NA-007/infra-lab/main/k8s/argocd/hello-world-app.yaml
 ```
 
 Verification :

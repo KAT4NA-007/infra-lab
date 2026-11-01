@@ -38,7 +38,7 @@ Nouveau sur ce dépôt ? Dans l'ordre :
 
 ## 🏗️ Architecture
 
-![Topologie infra-lab](photo.jpg)
+![Topologie infra-lab](topo.gif)
 
 ```
 ┌─────────────────────────────── AWS (cloud) ───────────────────────────────┐
